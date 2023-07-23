@@ -4,9 +4,9 @@ set -e  # Exit immediately if any command exits with a non-zero status
 
 
 # Set your variables
-SERVICE_NAME=scrut-pdf-service-dev
-SOURCE_CLUSTER=gomigo-development
-DEST_CLUSTER=scrut-dev
+SERVICE_NAME=
+SOURCE_CLUSTER=
+DEST_CLUSTER=
 
 echo "################ ECS Migration Started ################" 
 echo "Migrating Service : $SERVICE_NAME | Source Cluster : $SOURCE_CLUSTER | Destination Cluster : $DEST_CLUSTER"

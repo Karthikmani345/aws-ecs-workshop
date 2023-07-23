@@ -53,7 +53,7 @@ This shell script automates the migration of AWS ECS Fargate tasks and services 
 
 3. Run the script:
    ```bash
-   bash ecs_fargate_migration.sh
+   bash ecs-service-migration.sh
    ```
 
 ## Notes
