@@ -32,7 +32,7 @@ To get started with the workshop, follow these steps:
 
 ## Workshop Content
 
-The workshop content in this repository covers a wide range of topics related to AWS ECS, including but not limited to:
+Currently, the repository includes content on "ecs-service-migration". More topics related to AWS ECS are under development and will be added soon, including but not limited to:
 
 - Introduction to ECS and containerization
 - Creating ECS clusters and task definitions
@@ -43,7 +43,7 @@ The workshop content in this repository covers a wide range of topics related to
 - Securing ECS applications
 - Integration with other AWS services
 
-Each directory within the repository contains detailed explanations, sample code, and hands-on exercises to help you apply the concepts in real-world scenarios.
+Stay tuned as we update and expand the repository content!
 
 ## Contributing
 
